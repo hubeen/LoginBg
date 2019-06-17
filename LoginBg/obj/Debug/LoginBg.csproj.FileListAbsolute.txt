@@ -1,0 +1,12 @@
+C:\Users\Hubeen\AppData\Local\Temporary Projects\LoginBg\bin\Debug\LoginBg.exe.config
+C:\Users\Hubeen\AppData\Local\Temporary Projects\LoginBg\bin\Debug\LoginBg.exe
+C:\Users\Hubeen\AppData\Local\Temporary Projects\LoginBg\bin\Debug\LoginBg.pdb
+C:\Users\Hubeen\AppData\Local\Temporary Projects\LoginBg\obj\Debug\LoginBg.csprojResolveAssemblyReference.cache
+C:\Users\Hubeen\AppData\Local\Temporary Projects\LoginBg\obj\Debug\LoginBg.exe
+C:\Users\Hubeen\AppData\Local\Temporary Projects\LoginBg\obj\Debug\LoginBg.pdb
+D:\Programming\!Project\LoginBg\LoginBg\bin\Debug\LoginBg.exe.config
+D:\Programming\!Project\LoginBg\LoginBg\obj\Debug\LoginBg.exe
+D:\Programming\!Project\LoginBg\LoginBg\obj\Debug\LoginBg.pdb
+D:\Programming\!Project\LoginBg\LoginBg\bin\Debug\LoginBg.exe
+D:\Programming\!Project\LoginBg\LoginBg\bin\Debug\LoginBg.pdb
+D:\Programming\!Project\LoginBg\LoginBg\obj\Debug\LoginBg.csprojResolveAssemblyReference.cache
